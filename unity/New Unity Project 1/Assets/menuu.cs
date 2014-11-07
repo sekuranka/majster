@@ -16,6 +16,9 @@ public class menuu : MonoBehaviour {
 		if(GUI.Button(new Rect(20,70,80,20), "Level 2")) {
 
 		}
+		if(GUI.Button(new Rect(20,110,80,20), "Level 3")) {
+			
+		}
 
 	}
 }
